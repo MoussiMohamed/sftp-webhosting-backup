@@ -1,0 +1,4 @@
+sftpAddress="youruseraccount@yoursftpinstanceofyourwebhosting"
+mysqlBackupPath="/path/of/your/sql/backup/folder"
+vhostPath="path/of/your/website/folder"
+backupName="nameyourbackup"
