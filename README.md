@@ -1,5 +1,5 @@
 # SFTP WebHosting Backup
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/marsante/sftp-webhosting-backup/blob/master/README.fr.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/marsante/sftp-webhosting-backup/blob/main/README.fr.md)
 
 A bash script for website backup with sftp
 
