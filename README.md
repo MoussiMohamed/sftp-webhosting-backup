@@ -4,7 +4,7 @@
 A bash script for website backup with sftp
 
 ## Prerequisite :
-Your need to have a ssh key configured with your webhosting
+You need to have a ssh key configured with your webhosting
 
 ## Installation
 
