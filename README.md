@@ -28,5 +28,5 @@ nano sftp-webhosting-backup/.env
 Run the script :
 
 ```bash
-nano sftp-webhosting-backup/backup.sh
+sftp-webhosting-backup/backup.sh
 ```

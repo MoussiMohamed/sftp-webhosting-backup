@@ -15,7 +15,7 @@ Dans votre dossier dédié à la sauvegarde, clonez le projet :
 git clone https://github.com/marsante/sftp-webhosting-backup.git
 ```
 
-Copier l'exemple du fichier .env :
+Copiez l'exemple du fichier .env :
 
 ```bash
 mv sftp-webhosting-backup/env-sample sftp-webhosting-backup/.env
@@ -29,5 +29,5 @@ nano sftp-webhosting-backup/.env
 Lancez le script :
 
 ```bash
-nano sftp-webhosting-backup/backup.sh
+sftp-webhosting-backup/backup.sh
 ```
